@@ -831,6 +831,7 @@
 | [JPEG Optimizer](http://jpeg-optimizer.com/)| Free online tool for resizing and compressing digital photos and images for displaying on the web |
 | [Resizing.app](https://resizing.app/)| Resize Your Images Online |
 | [EZGif](https://ezgif.com/)| Animated GIF maker and Image editor including Image optimization and supports WebP conversion |
+| [SnapShrink](https://getsnapshrink.com/) | Free batch image compressor that runs 100% in your browser — no uploads, with target-size mode |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
